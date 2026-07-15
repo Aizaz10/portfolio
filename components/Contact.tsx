@@ -149,7 +149,7 @@ export default function Contact() {
               href="/resume.pdf"
               className="rounded-lg border border-dashed border-surfaceborder p-6 text-center font-mono text-sm text-muted hover:border-accent/50 hover:text-ink transition-colors"
             >
-              ↓ Download Resume (add resume.pdf to /public before deploy)
+              ↓ Download Resume
             </a>
           </div>
         </div>
